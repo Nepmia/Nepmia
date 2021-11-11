@@ -25,3 +25,5 @@ I'm kinda interested in evolving into a fullstack dev so I'm also interested in 
 ###### *A day I would like to try Kubernetes...*
 ###### Also the weeb text (the one in japanese) means Nepmia (*really?* heres more:)
 ![animated banner raw1_4](https://user-images.githubusercontent.com/64558289/136078813-f6686ace-83a0-4c00-8b0c-f9030b0f0659.gif)
+
+![Nepmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepmia&show_icons=true&theme=onedark)
