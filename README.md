@@ -22,4 +22,4 @@ Also some stats:
   
 ![Nepmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepmia&show_icons=true&theme=tokyonight)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepmia&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepmia&theme=tokyonight)
