@@ -1,25 +1,59 @@
 ![Nepmia_2020JP](https://user-images.githubusercontent.com/64558289/136078331-65645cca-4623-4de7-b16b-f50f6fdb8ddb.png)
-# Junior Front-End Dev but I like back end more.
-Also I use these languages :
-- Python (a language for the front-end devs, the real ones)
-- JS + JQUERY (Someone once told me that jQuery was archaic but it ain't dumb if it works right?)
-- Less (I won't even say I do css)
-- HTML (Do I even need to list it here? We're talking about languages no?)  
-     
-I'm kinda interested in evolving into a fullstack dev so I'm also interested in these:
-- TS (Not TeamSpeak, I use discord, also this is TypeScript)
-- Go (Let's go, everyone made the joke already)
-- Rust (Why use Rust? Especially when you can use Rouille https://github.com/bnjbvr/rouille)
-- C / C++ / c# (ptdr c ki? < Only French from Fronce can understand)
+  
+# Who am I?
+21 Random french person who got interested in design in 2014, have been self-learning most since then. Got interested in front-end developpement in 2016 and in back-end developpement in 2019. 
+
+Currently doing my second year/3 for my front / motion / design qualification in a sandwich training. Planning to do a backend school after this.
+
+Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hoster portfolio manager, a python front-end (material) framework and some other stuff.
+
+MIT For ever.
+# Junior Front-End Developper
+I'm currently a front-end dev and so I use front end stuff :
+- HTML/CSS/JS Vanilla
+- I like [Materialize](https://materializecss.com/)
+- I also like [jQuery](https://jquery.com/)
+- I really like [Less](https://lesscss.org/) 
+- And [Sass](https://sass-lang.com/)
+- But my favorite is [Electron](https://www.electronjs.org/)
+- I know [Bootstrap](https://getbootstrap.com/) and [WordPress](https://wordpress.com/) even if I don't like them
+  
+I'm also a skilled UI / UX Designer mainly using Xd / Ae. I only works in vector graphics and mainly draw vectors in Illustrator and I use all the adobe suite for general-design  purposes
+# And what about Back-End?
+
+Yes, since 2019 I got very interested in backend, I even plan to do some backend school at some point to be a fullstack dev. I've used some languages and back-end technologies since 2019 :
+- Python 
+- Flask
+- Django
+- Jinja2
+- Pandas
+- Docker
+- Drone / Actions (SoonTM)
   
   
+# What's next?
+Aside back or front or anything I want to have fun with :
+- [Go](https://go.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+- [PHP](https://www.php.net/), **NO, i'm joking ofc**
+- [Kubernetes](https://kubernetes.io/)
+- And many more actually
   
-###### *A day I would like to try Kubernetes...*
-###### Also the weeb text (the one in japanese) means Nepmia (*really?* heres more:)
 ![animated banner raw1_4](https://user-images.githubusercontent.com/64558289/136078813-f6686ace-83a0-4c00-8b0c-f9030b0f0659.gif)
   
 Also some stats:
+
+![Nepmia's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Nepmia&theme=tokyonight)
   
 ![Nepmia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nepmia&show_icons=true&theme=tokyonight)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepmia&theme=tokyonight)
+  
+  
+# Socials
+- [Behance](https://www.behance.net/nepmia)
+- [Twitter](https://twitter.com/Nepmia)
+- [Discord](https://discord.gg/3QPMpdg)
+- [Steam](https://steamcommunity.com/id/Nepmia/)
+- [Nepmia.fr](https://nepmia.fr)
