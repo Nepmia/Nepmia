@@ -22,13 +22,13 @@ I'm also a skilled UI / UX Designer mainly using Xd / Ae. I only works in vector
 # And what about Back-End?
 
 Yes, since 2019 I got very interested in backend, I even plan to do some backend school at some point to be a fullstack dev. I've used some languages and back-end technologies since 2019 :
-- Python 
-- Flask
-- Django
-- Jinja2
-- Pandas
-- Docker
-- Drone / Actions (SoonTM)
+- [Python](https://www.python.org/)
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- [Django](https://www.djangoproject.com/)
+- [Jinja2](https://jinja.palletsprojects.com/en/3.0.x/)
+- [Pandas](https://pandas.pydata.org/)
+- [Docker](https://www.docker.com/)
+- [Drone](https://docs.drone.io/pipeline/overview/) / [Actions](https://github.com/features/actions) (SoonTM)
   
   
 # What's next?
