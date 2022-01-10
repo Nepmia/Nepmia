@@ -5,7 +5,7 @@
 
 Currently doing my second year/3 for my front / motion / design qualification in a sandwich training. Planning to do a backend school after this.
 
-Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hoster portfolio manager, a python front-end (material) framework and some other stuff.
+Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hosted portfolio manager, a python front-end (material) framework and some other stuff.
 
 MIT For ever.
 # Junior Front-End Developper
@@ -18,10 +18,10 @@ I'm currently a front-end dev and so I use front end stuff :
 - But my favorite is [Electron](https://www.electronjs.org/)
 - I know [Bootstrap](https://getbootstrap.com/) and [WordPress](https://wordpress.com/) even if I don't like them
   
-I'm also a skilled UI / UX Designer mainly using Xd / Ae. I only works in vector graphics and mainly draw vectors in Illustrator and I use all the adobe suite for general-design  purposes
+I'm also a skilled UI / UX Designer mainly using Xd / Ae. I only works in vector graphics, I mainly draw vectors in Illustrator and I use all the adobe suite for general-design  purposes
 # And what about Back-End?
 
-Yes, since 2019 I got very interested in backend, I even plan to do some backend school at some point to be a fullstack dev. I've used some languages and back-end technologies since 2019 :
+Yes, since 2019 I got very interested in backend, I even plan to do some backend school at some point to be a fullstack dev. I've used some back-end technologies since 2019 :
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Django](https://www.djangoproject.com/)
@@ -34,6 +34,7 @@ Yes, since 2019 I got very interested in backend, I even plan to do some backend
 # What's next?
 Aside back or front or anything I want to have fun with :
 - [Go](https://go.dev/)
+- [Rust](https://www.rust-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - [PHP](https://www.php.net/), **NO, i'm joking ofc**
