@@ -8,7 +8,7 @@ Currently doing my second year/3 for my front / motion / design qualification in
 Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hosted portfolio manager, a python front-end (material) framework and some other stuff.
 
 MIT For ever.
-# Junior Front-End Developper
+# Mid-Level Front-End Developper
 I'm currently a front-end dev and so I use front end stuff :
 - HTML/CSS/JS Vanilla
 - I like [Materialize](https://materializecss.com/)
