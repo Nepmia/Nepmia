@@ -33,6 +33,25 @@ Yes, as a back-end dev I've used some back-end technologies since 2019 :
 - [Drone](https://docs.drone.io/pipeline/overview/) / [Actions](https://github.com/features/actions) (SoonTM)
   
   
+# Favorite Stack
+  
+I like to split my back and my front into these:
+  
+  Back:
+  - Django as a REST API using DRF
+  - PostgreSQL
+  
+  Front:
+  - Vuejs
+  - Less
+  - Vite for the build even tho I'm getting into Astro rn
+
+  Ops:
+  - Docker
+  - Drone/Action pipeline for continuous integrations
+  - (I must learn how to use it) K8s
+  
+  
 # What's next?
 Aside back or front or anything I want to have fun with :
 - [Go](https://go.dev/)
@@ -41,7 +60,7 @@ Aside back or front or anything I want to have fun with :
 - [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - [PHP](https://www.php.net/), **NO, i'm joking ofc**
 - [Kubernetes](https://kubernetes.io/)
-- And many more actually
+- I also need to try Redis, Cellery and more devops stuff
   
 ![animated banner raw1_4](https://user-images.githubusercontent.com/64558289/136078813-f6686ace-83a0-4c00-8b0c-f9030b0f0659.gif)
   
