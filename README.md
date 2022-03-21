@@ -14,7 +14,7 @@ I do front-end stuff so I use front end stuff :
 - I also like [jQuery](https://jquery.com/) 
 - I prefer [Less](https://lesscss.org/) over [Sass](https://sass-lang.com/)
 - And [Sass](https://sass-lang.com/)
-- But my favorite is [Electron](https://www.electronjs.org/) and [Vue] (https://vuejs.org/)
+- But my favorite is [Electron](https://www.electronjs.org/) and [Vue](https://vuejs.org/)
 - I know [Bootstrap](https://getbootstrap.com/) and [WordPress](https://wordpress.com/) even if I don't like (hate) them
   
  
