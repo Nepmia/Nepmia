@@ -1,13 +1,13 @@
 ![Nepmia_2020JP](https://user-images.githubusercontent.com/64558289/136078331-65645cca-4623-4de7-b16b-f50f6fdb8ddb.png)
   
 # Who am I?
-21 Random french person who got interested in design in 2014, have been self-learning most since then. Got interested in front-end developpement in 2016 and in back-end developpement in 2019. 
+21 Random french person who got interested in design in 2014, have been self-learning most since then. Got interested in front-end developement in 2016 and in back-end developement in 2019. 
 
 Currently doing my second year/3 for my front / motion / design qualification in a sandwich training.
 
 Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hosted portfolio manager, a python front-end (material) framework and some other stuff.
 
-# Mid-Level Front-End Developper
+# Mid-Level Front-End Developer
 I do front-end stuff so I use front end stuff :
 - HTML/CSS/JS Vanilla
 - I like [Materialize](https://materializecss.com/)
@@ -20,7 +20,7 @@ I do front-end stuff so I use front end stuff :
  
 I also do UI / UX Designer mainly using Xd / Ae. I only works in vector graphics, I mainly draw vectors in Illustrator and I use all the adobe suite for general-design  purposes
 
-# Junior Back-End Developper
+# Junior Back-End Developer
 
 Yes, as a back-end dev I've used some back-end technologies since 2019 :
 - [Python](https://www.python.org/)
