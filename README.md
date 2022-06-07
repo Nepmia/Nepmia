@@ -1,28 +1,28 @@
 ![Nepmia_2020JP](https://user-images.githubusercontent.com/64558289/136078331-65645cca-4623-4de7-b16b-f50f6fdb8ddb.png)
   
 # Who am I?
-21 Random french person who got interested in design in 2014, have been self-learning most since then. Got interested in front-end developement in 2016 and in back-end developement in 2019. 
+21 Random french person who got interested in design in 2014, have been self-learning most since then (thanks school for not learning me stuff). Got interested in front-end developement in 2016 and in back-end developement in 2019. 
 
-Currently doing my second year/3 for my front / motion / design qualification in a sandwich training.
+Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile, tho I currently work for [Wynncraft](https://wynncraft.com)  as a developer and maintainer for their web services. 
 
-Most of my pro. repos are private but you can still check my public personal works on my orgs or here on my profile. I really like open-source and I kinda want to release some open-source tools in the future like a self-hosted portfolio manager, a python front-end (material) framework and some other stuff.
+I really like open-source and I kinda want to release some open-source tools in the future, but I have no time to do it for now :(.
 
-# Mid-Level Front-End Developer
-I do front-end stuff so I use front end stuff :
+# Mid-Level Front-End Developer (sooon Senior)
+Techs I use :
 - HTML/CSS/JS Vanilla
 - I like [Materialize](https://materializecss.com/)
 - I also like [jQuery](https://jquery.com/) 
 - I prefer [Less](https://lesscss.org/) over [Sass](https://sass-lang.com/)
 - And [Sass](https://sass-lang.com/)
 - But my favorite is [Electron](https://www.electronjs.org/) and [Vue](https://vuejs.org/)
-- I know [Bootstrap](https://getbootstrap.com/) and [WordPress](https://wordpress.com/) even if I don't like (hate) them
+- I know [Bootstrap](https://getbootstrap.com/) and [WordPress](https://wordpress.com/) even if I don't like (extremely hate) them
   
  
 I also do UI / UX Designer mainly using Xd / Ae. I only works in vector graphics, I mainly draw vectors in Illustrator and I use all the adobe suite for general-design  purposes
 
 # Junior Back-End Developer
 
-Yes, as a back-end dev I've used some back-end technologies since 2019 :
+Techs I use :
 - [Python](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Django](https://www.djangoproject.com/)
@@ -31,11 +31,12 @@ Yes, as a back-end dev I've used some back-end technologies since 2019 :
 - [Pandas](https://pandas.pydata.org/)
 - [Docker](https://www.docker.com/)
 - [Drone](https://docs.drone.io/pipeline/overview/) / [Actions](https://github.com/features/actions) (SoonTM)
+- [Redis](https://redis.io/)
   
   
 # Favorite Stack
   
-I like to split my back and my front into these:
+I really like to split everything into scallable parts, so I basically do JAMStacks
   
   Back:
   - Django as a REST API using DRF
@@ -46,10 +47,7 @@ I like to split my back and my front into these:
   - Less
   - Vite for the build even tho I'm getting into Astro rn
 
-  Ops:
-  - Docker
-  - Drone/Action pipeline for continuous integrations
-  - (I must learn how to use it) K8s
+Deployment is made using docker and I sometimes set up CIs when needed (Drone CI), but I'd like to use more Actions from github and gitlab CIs, I also would like to run stuff under my own K8s (not someone's one) 
   
   
 # What's next?
@@ -60,7 +58,7 @@ Aside back or front or anything I want to have fun with :
 - [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - [PHP](https://www.php.net/), **NO, i'm joking ofc**
 - [Kubernetes](https://kubernetes.io/)
-- I also need to try Redis, Cellery and more devops stuff
+- [Celery](https://docs.celeryq.dev/en/stable/index.html)
   
 ![animated banner raw1_4](https://user-images.githubusercontent.com/64558289/136078813-f6686ace-83a0-4c00-8b0c-f9030b0f0659.gif)
   
@@ -74,8 +72,12 @@ Also some stats:
   
   
 # Socials
-- [Behance](https://www.behance.net/nepmia)
-- [Twitter](https://twitter.com/Nepmia)
-- [Discord](https://discord.gg/3QPMpdg)
-- [Steam](https://steamcommunity.com/id/Nepmia/)
-- [Nepmia.fr](https://nepmia.fr)
+###### Click on any icon below
+‎‎‎‎‎
+
+[![steam icon](https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-100.png)](https://steamcommunity.com/id/Nepmia/) ‎‎‎‎‎
+[![discord icon](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-100.png)](https://discord.gg/3QPMpdg) ‎‎‎‎‎
+[![twitter icon](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-100.png)](https://twitter.com/Nepmia) ‎‎‎‎‎
+[![behance icon](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Behance-100.png)](https://www.behance.net/nepmia) ‎‎‎‎‎
+[![reddit icon](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-100.png)]([https://steamcommunity.com/id/Nepmia/](https://www.reddit.com/user/Nepmia)) ‎‎‎‎‎
+[![soundcloud icon](https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_soundCloud-100.png)]([https://steamcommunity.com/id/Nepmia/]([https://www.reddit.com/user/Nepmia](https://soundcloud.com/nepmia))) ‎‎‎‎‎
