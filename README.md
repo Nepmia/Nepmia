@@ -79,5 +79,5 @@ Also some stats:
 [![discord icon](https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-100.png)](https://discord.gg/3QPMpdg) ‎‎‎‎‎
 [![twitter icon](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-100.png)](https://twitter.com/Nepmia) ‎‎‎‎‎
 [![behance icon](https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Behance-100.png)](https://www.behance.net/nepmia) ‎‎‎‎‎
-[![reddit icon](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-100.png)]([https://steamcommunity.com/id/Nepmia/](https://www.reddit.com/user/Nepmia)) ‎‎‎‎‎
-[![soundcloud icon](https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_soundCloud-100.png)]([https://steamcommunity.com/id/Nepmia/]([https://www.reddit.com/user/Nepmia](https://soundcloud.com/nepmia))) ‎‎‎‎‎
+[![reddit icon](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-100.png)](https://www.reddit.com/user/Nepmia) ‎‎‎‎‎
+[![soundcloud icon](https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_soundCloud-100.png)](https://soundcloud.com/nepmia) ‎‎‎‎‎
