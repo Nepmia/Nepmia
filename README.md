@@ -1,8 +1,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/64558289/136078331-65645cca-4623-4de7-b16b-f50f6fdb8ddb.png" alt="Nepmia logo"/>
 </div>
+
+
+-- 
+
   
-Hello, I'm not very active on github nowadays, but that's just because i work on other platforms! If you just want to know more about me, I'm a 25 Random french python nerd that currently work for [Wynncraft](https://wynncraft.com) as a developer and maintainer for their web services.
+Hello, I'm not very active on github nowadays, but that's just because i work on other platforms! If you just want to know more about me, I'm a 26 Random french python nerd that currently work for [Wynncraft](https://wynncraft.com) as a developer and maintainer for their web services.
   
 # Socials
 ###### Click on any icon below
